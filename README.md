@@ -1,1 +1,1 @@
-# interpolacionpru
+%matplotlib inline
